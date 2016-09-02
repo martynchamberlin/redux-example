@@ -1,4 +1,4 @@
-# React Example
+# Redux Example
 
 To get started, run this locally:
 
